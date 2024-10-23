@@ -14,4 +14,4 @@
 ![Static Badge](https://img.shields.io/badge/RESTFULL_API-blue?style=for-the-badge&logoSize=auto&color=%23411fcc)
 
 ## Socials
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSize=auto&color=%230A66C2&link=www.linkedin.com%2Fin%2Famirmohammad-javaheri)
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoSize=auto&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Famimohammad-javaheri%2F">
